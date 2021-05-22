@@ -1,0 +1,378 @@
+Source,Target,Weight
+Bangkalan,Surabaya,33.2
+Bangkalan,Sampang,61.9
+Sampang,Bangkalan,61.9
+Sampang,Pamekasan,34.3
+Sampang,Surabaya,79.7
+Pamekasan,Sampang,34.3
+Pamekasan,Sumenep,53.3
+Sumenep,Pamekasan,53.3
+Surabaya,Bangkalan,33.2
+Surabaya,Sampang,79.7
+Surabaya,Sidoarjo,23.9
+Surabaya,Gresik,20.5
+Surabaya,Lamongan,44.8
+Surabaya,Mojokerto,54.1
+Surabaya,Jombang,82.1
+Surabaya,Nganjuk,117
+Surabaya,Madiun,166
+Surabaya,Ngawi,186
+Surabaya,Kediri,121
+Sidoarjo,Surabaya,23.9
+Sidoarjo,Gresik,41.7
+Sidoarjo,Lamongan,68.3
+Sidoarjo,Mojokerto,39.8
+Sidoarjo,Jombang,70.3
+Sidoarjo,Kediri,120
+Sidoarjo,Pasuruan,38
+Sidoarjo,Malang,69.3
+Sidoarjo,Batu,78.2
+Gresik,Surabaya,20.5
+Gresik,Lamongan,30.4
+Gresik,Sidoarjo,41
+Gresik,Mojokerto,59.8
+Gresik,Jombang,96.5
+Gresik,Nganjuk,131
+Gresik,Madiun,181
+Gresik,Ngawi,201
+Gresik,Kediri,136
+Lamongan,Gresik,30.4
+Lamongan,Tuban,55.5
+Lamongan,Bojonegoro,66.6
+Lamongan,Surabaya,44.8
+Lamongan,Mojokerto,49.6
+Lamongan,Jombang,75.3
+Lamongan,Nganjuk,104
+Lamongan,Madiun,159
+Lamongan,Ngawi,180
+Lamongan,Kediri,115
+Lamongan,Blitar,142
+Lamongan,Batu,112
+Tuban,Lamongan,55.5
+Tuban,Bojonegoro,47.4
+Tuban,Jombang,117
+Tuban,Ngawi,118
+Tuban,Mojokerto,94.6
+Tuban,Madiun,130
+Bojonegoro,Tuban,47.4
+Bojonegoro,Lamongan,66.6
+Bojonegoro,Nganjuk,65.1
+Bojonegoro,Ngawi,73.1
+Bojonegoro,Madiun,98.3
+Bojonegoro,Nganjuk,65.1
+Bojonegoro,Mojokerto,88.1
+Mojokerto,Sidoarjo,39.8
+Mojokerto,Surabaya,54.1
+Mojokerto,Gresik,59.8
+Mojokerto,Lamongan,49.6
+Mojokerto,Tuban,94.6
+Mojokerto,Bojonegoro,88.1
+Mojokerto,Jombang,29.5
+Mojokerto,Nganjuk,71.6
+Mojokerto,Ngawi,142
+Mojokerto,Blitar,98.1
+Mojokerto,Batu,62.7
+Mojokerto,Malang,93.7
+Mojokerto,Pasuruan,67.4
+Mojokerto,Probolinggo,106
+Mojokerto,Lumajang,175
+Mojokerto,Jember,224
+Mojokerto,Bondowoso,235
+Mojokerto,Situbondo,239
+Jombang,Surabaya,82.1
+Jombang,Sidoarjo,70.3
+Jombang,Gresik,96.5
+Jombang,Lamongan,75.3
+Jombang,Tuban,117
+Jombang,Mojokerto,29.5
+Jombang,Nganjuk,40.1
+Jombang,Kediri,44.5
+Jombang,Blitar,76.7
+Jombang,Batu,73.1
+Jombang,Pasuruan,93.7
+Jombang,Lumajang,172
+Jombang,Jember,221
+Jombang,Probolinggo,133
+Jombang,Bondowoso,232
+Jombang,Situbondo,236
+Nganjuk,Surabaya,117
+Nganjuk,Gresik,131
+Nganjuk,Lamongan,104
+Nganjuk,Bojonegoro,65.1
+Nganjuk,Mojokerto,71.6
+Nganjuk,Jombang,40.1
+Nganjuk,Madiun,49.8
+Nganjuk,Ngawi,74
+Nganjuk,Kediri,32.1
+Nganjuk,Batu,101
+Madiun,Surabaya,166
+Madiun,Gresik,181
+Madiun,Lamongan,159
+Madiun,Tuban,130
+Madiun,Bojonegoro,98.3
+Madiun,Nganjuk,49.8
+Madiun,Ngawi,32.1
+Madiun,Magetan,24.8
+Madiun,Ponorogo,30.9
+Ngawi,Surabaya,186
+Ngawi,Gresik,201
+Ngawi,Lamongan,180
+Ngawi,Tuban,118
+Ngawi,Bojonegoro,73.1
+Ngawi,Mojokerto,142
+Ngawi,Nganjuk,74
+Ngawi,Madiun,32.1
+Ngawi,Magetan,36.3
+Ngawi,Ponorogo,60.3
+Magetan,Madiun,24.8
+Magetan,Ngawi,36.3
+Magetan,Ponorogo,33.8
+Magetan,Pacitan,94.2
+Pasuruan,Sidoarjo,38
+Pasuruan,Mojokerto,67.4
+Pasuruan,Jombang,93.7
+Pasuruan,Malang,59.2
+Pasuruan,Probolinggo,39
+Pasuruan,Lumajang,87.6
+Pasuruan,Jember,137
+Batu,Sidoarjo,78.2
+Batu,Lamongan,112
+Batu,Mojokerto,62.7
+Batu,Jombang,73.1
+Batu,Nganjuk,101
+Batu,Kediri,83.9
+Batu,Blitar,72.1
+Batu,Malang,18.9
+Malang,Sidoarjo,69.3
+Malang,Mojokerto,93.7
+Malang,Pasuruan,59.2
+Malang,Batu,18.9
+Malang,Blitar,73.3
+Malang,Lumajang,89.4
+Kediri,Surabaya,121
+Kediri,Sidoarjo,120
+Kediri,Gresik,136
+Kediri,Lamongan,115
+Kediri,Jombang,44.5
+Kediri,Nganjuk,32.1
+Kediri,Batu,83.9
+Kediri,Blitar,44
+Kediri,Tulungagung,29.9
+Blitar,Lamongan,142
+Blitar,Mojokerto,98.1
+Blitar,Jombang,76.7
+Blitar,Batu,72.1
+Blitar,Malang,73.3
+Blitar,Kediri,44
+Blitar,Tulungagung,32.9
+Blitar,Trenggalek,63.8
+Tulungagung,Kediri,29.9
+Tulungagung,Blitar,32.9
+Tulungagung,Trenggalek,32.1
+Tulungagung,Ponorogo,69.1
+Tulungagung,Pacitan,128
+Trenggalek,Blitar,63.8
+Trenggalek,Tulungagung,32.1
+Trenggalek,Ponorogo,42
+Trenggalek,Pacitan,103
+Ponorogo,Madiun,30.9
+Ponorogo,Ngawi,60.3
+Ponorogo,Tulungagung,69.1
+Ponorogo,Trenggalek,42
+Ponorogo,Pacitan,76.2
+Pacitan,Magetan,94.2
+Pacitan,Tulungagung,128
+Pacitan,Trenggalek,103
+Pacitan,Ponorogo,76.2
+Probolinggo,Mojokerto,106
+Probolinggo,Jombang,133
+Probolinggo,Pasuruan,39
+Probolinggo,Lumajang,48.7
+Probolinggo,Bondowoso,93.6
+Probolinggo,Situbondo,97.8
+Probolinggo,Jember,98.1
+Bondowoso,Mojokerto,235
+Bondowoso,Jombang,232
+Bondowoso,Probolinggo,93.6
+Bondowoso,Situbondo,34.9
+Bondowoso,Jember,33.6
+Bondowoso,Banyuwangi,98.6
+Situbondo,Mojokerto,239
+Situbondo,Jombang,236
+Situbondo,Probolinggo,97.8
+Situbondo,Bondowoso,34.9
+Situbondo,Lumajang,130
+Situbondo,Banyuwangi,94.7
+Lumajang,Mojokerto,175
+Lumajang,Jombang,172
+Lumajang,Pasuruan,87.6
+Lumajang,Malang,89.4
+Lumajang,Probolinggo,48.7
+Lumajang,Situbondo,130
+Lumajang,Jember,62.7
+Jember,Mojokerto,224
+Jember,Jombang,221
+Jember,Pasuruan,137
+Jember,Probolinggo,98.1
+Jember,Bondowoso,33.6
+Jember,Lumajang,62.7
+Jember,Banyuwangi,106
+Banyuwangi,Bondowoso,98.6
+Banyuwangi,Situbondo,94.7
+Banyuwangi,Jember,106
+Pantai Pasir Putih,Situbondo,21.8
+Situbondo,Pantai Pasir Putih,21.8
+Pantai Pasir Putih,Bondowoso,44.4
+Bondowoso,Pantai Pasir Putih,44.4
+Pantai Pasir Putih,Probolinggo,76
+Probolinggo,Pantai Pasir Putih,76
+Pantai Pasir Putih,Lumajang,109
+Lumajang,Pantai Pasir Putih,109
+Danau Telaga Sarangan,Magetan,15
+Magetan,Danau Telaga Sarangan,15
+Danau Telaga Sarangan,Ponorogo,43.4
+Ponorogo,Danau Telaga Sarangan,43.4
+Danau Telaga Sarangan,Pacitan,88.7
+Pacitan,Danau Telaga Sarangan,88.7
+Ranu Kumbolo,Malang,47.2
+Malang,Ranu Kumbolo,47.2
+Ranu Kumbolo,Pasuruan,92.8
+Pasuruan,Ranu Kumbolo,92.8
+Ranu Kumbolo,Probolinggo,87.6
+Probolinggo,Ranu Kumbolo,87.6
+Ranu Kumbolo,Lumajang,42.2
+Lumajang,Ranu Kumbolo,42.2
+Ranu Kumbolo,Blitar,119
+Blitar,Ranu Kumbolo,119
+Pantai Sendangbiru,Malang,69.3
+Malang,Pantai Sendangbiru,69.3
+Pantai Sendangbiru,Blitar,90.5
+Blitar,Pantai Sendangbiru,90.5
+Pantai Sendangbiru,Lumajang,107
+Lumajang,Pantai Sendangbiru,107
+Pantai Balekambang,Malang,56.3
+Malang,Pantai Balekambang,56.3
+Pantai Balekambang,Lumajang,129
+Lumajang,Pantai Balekambang,129
+Pantai Balekambang,Blitar,71
+Blitar,Pantai Balekambang,71
+Kawah Ijen,Banyuwangi,44.7
+Banyuwangi,Kawah Ijen,44.7
+Kawah Ijen,Situbondo,78.7
+Situbondo,Kawah Ijen,78.7
+Kawah Ijen,Bondowoso,68.2
+Bondowoso,Kawah Ijen,68.2
+Pantai Papuma,Jember,40.1
+Jember,Pantai Papuma,40.1
+Pantai Papuma,Lumajang,64.3
+Lumajang,Pantai Papuma,64.3
+Pantai Papuma,Malang,173
+Malang,Pantai Papuma,173
+Goa Maharani,Lamongan,42.6
+Lamongan,Goa Maharani,42.6
+Goa Maharani,Gresik,52.6
+Gresik,Goa Maharani,52.6
+Goa Maharani,Tuban,35.2
+Tuban,Goa Maharani,35.2
+Goa Maharani,Bojonegoro,71.6
+Bojonegoro,Goa Maharani,71.6
+Air Terjun Mardakaripura,Probolinggo,37.4
+Probolinggo,Air Terjun Mardakaripura,37.4
+Air Terjun Mardakaripura,Pasuruan,49.8
+Pasuruan,Air Terjun Mardakaripura,49.8
+Air Terjun Mardakaripura,Lumajang,72.9
+Lumajang,Air Terjun Mardakaripura,72.9
+Air Terjun Mardakaripura,Jember,130
+Jember,Air Terjun Mardakaripura,130
+Coban Rondo,Batu,10.6
+Batu,Coban Rondo,10.6
+Coban Rondo,Kediri,81.7
+Kediri,Coban Rondo,81.7
+Coban Rondo,Jombang,71.3
+Jombang,Coban Rondo,71.3
+Coban Rondo,Blitar,69.9
+Blitar,Coban Rondo,69.9
+Pantai Batu Bengkung,Malang,62.2
+Malang,Pantai Batu Bengkung,62.2
+Pantai Batu Bengkung,Lumajang,116
+Lumajang,Pantai Batu Bengkung,116
+Pantai Batu Bengkung,Blitar,81.1
+Blitar,Pantai Batu Bengkung,81.1
+Pantai Tiga Warna,Malang,71.1
+Malang,Pantai Tiga Warna,71.1
+Pantai Tiga Warna,Lumajang,108
+Lumajang,Pantai Tiga Warna,108
+Pantai Tiga Warna,Blitar,92.1
+Blitar,Pantai Tiga Warna,92.1
+Pantai Kletekan,Malang,59.9
+Malang,Pantai Kletekan,59.9
+Pantai Kletekan,Lumajang,119
+Lumajang,Pantai Kletekan,199
+Pantai Kletekan,Blitar,78.8
+Blitar,Pantai Kletekan,78.8
+Pantai Klayar,Pacitan,29
+Pacitan,Pantai Klayar,29
+Pantai Klayar,Trenggalek,130
+Trenggalek,Pantai Klayar,130
+Pantai Klayar,Magetan,124
+Magetan,Pantai Klayar,124
+Goa Gong,Pacitan,23.4
+Pacitan,Goa Gong,23.4
+Goa Gong,Trenggalek,126
+Trenggalek,Goa Gong,126
+Goa Gong,Magetan,112
+Magetan,Goa Gong,112
+Air Terjun Toroan,Sampang,42.5
+Sampang,Air Terjun Toroan,42.5
+Air Terjun Toroan,Bangkalan,70.2
+Bangkalan,Air Terjun Toroan,70.2
+Air Terjun Toroan,Pamekasan,53.3
+Pamekasan,Air Terjun Toroan,53.3
+Air Terjun Toroan,Sumenep,69.6
+Sumenep,Air Terjun Toroan,69.6
+Pantai Kahuripan,Sumenep,33.8
+Sumenep,Pantai Kahuripan,33.8
+Pantai Kahuripan,Pamekasan,64.5
+Pamekasan,Pantai Kahuripan,64.5
+Gili Labak,Sumenep,38.1
+Sumenep,Gili Labak,38.1
+Gili Labak,Pamekasan,88.7
+Pamekasan,Gili Labak,88.7
+Danau Kastoba,Gresik,159.3
+Gresik,Danau Kastoba,159.3
+Taman Nasional Baluran,Banyuwangi,46.1
+Banyuwangi,Taman Nasional Baluran,46.1
+Taman Nasional Baluran,Situbondo,67.3
+Situbondo,Taman Nasional Baluran,67.3
+Wisata Gunung Kelud,Kediri,42.8
+Kediri,Wisata Gunung Kelud,42.8
+Wisata Gunung Kelud,Blitar,35.1
+Blitar,Wisata Gunung Kelud,35.1
+Wisata Gunung Kelud,Tulungagung,60.7
+Tulungagung,Wisata Gunung Kelud,60.7
+Wisata Gunung Kelud,Malang,99.9
+Malang,Wisata Gunung Kelud,99.9
+Wisata Gunung Kelud,Batu,88.4
+Batu,Wisata Gunung Kelud,88.4
+Wisata Gunung Kelud,Jombang,77.4
+Jombang,Wisata Gunung Kelud,77.4
+Wisata Gunung Kelud,Mojokerto,95.7
+Mojokerto,Wisata Gunung Kelud,95.7
+Coban Talun,Batu,9.4
+Batu,Coban Talun,9.4
+Coban Talun,Mojokerto,55.2
+Mojokerto,Coban Talun,55.2
+Coban Talun,Sidoarjo,70.3
+Sidoarjo,Coban Talun,70.3
+Coban Talun,Jombang,67.9
+Jombang,Coban Talun,67.9
+Gunung Wilis,Ponorogo,81.2
+Ponorogo,Gunung Wilis,81.2
+Gunung Wilis,Madiun,63.4
+Madiun,Gunung Wilis,63.4
+Gunung Wilis,Nganjuk,30.9
+Nganjuk,Gunung Wilis,30.9
+Gunung Wilis,Kediri,50.7
+Kediri,Gunung Wilis,50.7
+Gunung Wilis,Nganjuk,71.7
+Nganjuk,Gunung Wilis,71.7
